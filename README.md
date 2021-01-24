@@ -9,8 +9,8 @@ Showcase the power of Python Programming by plotting the ACF and PACF, ARIMA mod
 
 # Libraries Used
 
-pandas
-numpy
-matplotlib
-statsmodels.graphics.tsaplots
+pandas/
+numpy/
+matplotlib/
+statsmodels.graphics.tsaplots/
 statsmodels.tsa.arima_model
